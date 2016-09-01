@@ -1,0 +1,12 @@
+{
+  "name": "chinchinbot",
+  "version": "0.1",
+  ...
+  "engines": {
+    "node": "5.9.1"
+  },
+  "dependencies": {
+    "discord.js": "8.1.0"
+  },
+  ...
+}
