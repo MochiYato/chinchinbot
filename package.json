@@ -2,9 +2,6 @@
   "name": "chinchinbot",
   "version": "0.1",
   ...
-  "engines": {
-    "node": "6.5.0"
-  },
   "dependencies": {
     "discord.js": "8.1.0"
   },
