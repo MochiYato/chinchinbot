@@ -1,9 +1,7 @@
 {
   "name": "chinchinbot",
   "version": "0.1",
-  ...
   "dependencies": {
     "discord.js": "8.1.0"
-  },
-  ...
+  }
 }
